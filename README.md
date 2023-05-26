@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @grizenzio
 - 👀 I’m interested in Code
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on Team
+- 🌱 I’m currently learning Programming @Politeknik Negeri Cilacap
+- 💞️ I’m looking to collaborate on Team 
 - 📫 How to reach me @grizenzio Instagram
 
 <!---
